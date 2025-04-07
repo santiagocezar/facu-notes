@@ -2,8 +2,6 @@
 title: Asimetría
 tags: []
 ---
-AAAAA
-
 Una distribución de datos puede ser
 - **Asimétrica negativa:** Media < Mediana < Modo
 - **Simétrica:** Media = Mediana = Modo
