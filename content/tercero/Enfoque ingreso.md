@@ -1,0 +1,4 @@
+---
+title: Enfoque ingreso
+tags: []
+---

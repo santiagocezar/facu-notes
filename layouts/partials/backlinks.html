@@ -1,0 +1,21 @@
+{{ $permalinkurl := urls.Parse $.Page.Permalink }}
+{{ $relpermalink := urls.URLize $permalinkurl.Path }}
+{{ $pages := slice }}
+{{- range .Site.RegularPages -}}
+    {{- if strings.Contains .Content $relpermalink -}}
+        {{ $pages = $pages | append . }}
+    {{- end -}}
+{{- end -}}
+{{ with $pages }}
+<link rel="stylesheet" type="text/css" href="/css/backlinks.css">
+<section class="backlinks">
+    <h1>Mencionado en</h1>
+    <ul class="backlink-items">
+    {{- range $pages -}}
+        {{- if strings.Contains .Content $relpermalink -}}
+        <li class="backlink-item"><a href="{{ .Permalink }}">{{ .Name }}</a></li>
+        {{- end -}}
+    {{- end -}}
+    </ul>
+</section>
+{{ end }}

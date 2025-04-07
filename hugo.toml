@@ -1,0 +1,14 @@
+baseURL = 'https://notas.cez.ar/'
+languageCode = 'en-us'
+title = 'Notas de la facu'
+theme = 'PaperModX'
+defaultOutputFormat = 'html'
+
+[markup.goldmark.extensions.passthrough]
+enable = true
+[markup.goldmark.extensions.passthrough.delimiters]
+block = [['\[', '\]'], ['$$', '$$']]
+inline = [['\(', '\)'], ['$', '$']]
+
+[params]
+math = true
