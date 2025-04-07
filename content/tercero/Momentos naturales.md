@@ -2,8 +2,9 @@
 title: Momentos naturales
 tags: []
 ---
-Media aritmética de la potencia $r$ de la variable.
 $$A_r=\frac{\sum^N_{i=1}{x_i}^r}{N}$$
+Media aritmética de la potencia $r$ de la variable.
+
 Por esto, $\sigma^2=A_2-{A_1}^2$
 
 Para series centradas 
