@@ -1,5 +1,5 @@
 ---
-title: Escasez
+title: "Escasez"
 tags: ["eco"]
 ---
 Es el motor de la [Economía]({{< ref "Economía" >}}), es la existencia de un deseo de adquirir una cantidad de

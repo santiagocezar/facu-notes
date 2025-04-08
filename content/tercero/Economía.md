@@ -1,8 +1,7 @@
 ---
-title: Economía
+title: "Economía"
 tags: ["eco"]
 ---
-
 En griego: la administración del hogar. La **ciencia** social y ¿no exacta? que estudia como los [sujetos]({{< ref "sujetos" >}}) satisfacen las [necesidades]({{< ref "necesidades" >}}) infinitas con [recursos]({{< ref "recursos" >}}) escasos. Su motor es el [principio de escasez](#)
 
 ## Clasificación

@@ -1,5 +1,5 @@
 ---
-title: Escalas
+title: "Escalas"
 tags: ["pye"]
 ---
 - **Nominal:** [Variables cualitativas]({{< ref "Variables cualitativas" >}}) que no tienen jerarquía, como el color, campo de estudio, estado civil.

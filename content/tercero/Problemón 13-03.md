@@ -1,5 +1,5 @@
 ---
-title: 13-03 Problemón
+title: "Problemón 13-03"
 tags: ["dds"]
 ---
 Menos tiempo, más plata. Que prácticas vamos a usar, que [estrategias](#) vamos a seguir.

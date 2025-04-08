@@ -1,5 +1,5 @@
 ---
-title: Sujetos
-tags: ["eco"]
+title: "Sujetos"
+tags: []
 ---
-#eco 
+#eco

@@ -1,5 +1,5 @@
 ---
-title: Producción
+title: "Producción"
 tags: ["eco"]
 ---
 Se realiza el [Proceso productivo]({{< ref "Proceso productivo" >}}).

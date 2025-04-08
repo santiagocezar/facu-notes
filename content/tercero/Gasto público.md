@@ -1,6 +1,6 @@
 ---
-title: Gasto público
-tags: []
+title: "Gasto público"
+tags: ["eco"]
 ---
 Clasificación:
 - Económica

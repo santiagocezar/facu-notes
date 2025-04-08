@@ -1,5 +1,5 @@
 ---
-title: Población (economía)
+title: "Población (economía)"
 tags: ["eco"]
 ---
 ## Clasificación

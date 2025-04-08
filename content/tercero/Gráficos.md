@@ -1,5 +1,5 @@
 ---
-title: Gráficos
+title: "Gráficos"
 tags: ["pye"]
 ---
 - Torta

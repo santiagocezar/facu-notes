@@ -1,6 +1,6 @@
 ---
-title: Rango
-tags: []
+title: "Rango"
+tags: ["pye"]
 ---
 Diferencia entre el valor máximo y mínimo de la variable, el recorrido.
 

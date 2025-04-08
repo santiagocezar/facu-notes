@@ -1,5 +1,5 @@
 ---
-title: Balanza de pagos
-tags: []
+title: "Balanza de pagos"
+tags: ["eco"]
 ---
 != Balanza comercial!!!

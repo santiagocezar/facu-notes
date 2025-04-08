@@ -1,5 +1,5 @@
 ---
-title: Organización de datos
+title: "Organización de datos"
 tags: ["pye"]
 ---
 Para resumir los [datos]({{< ref "datos" >}}) se usan [Gráficos]({{< ref "Gráficos" >}}) o [Tablas]({{< ref "Tablas" >}}), donde podemos encontrar los siguientes valores:

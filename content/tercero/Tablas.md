@@ -1,5 +1,5 @@
 ---
-title: Tablas
+title: "Tablas"
 tags: ["pye"]
 ---
 - Cualitativas

@@ -1,6 +1,6 @@
 ---
-title: Dispersión
-tags: []
+title: "Dispersión"
+tags: ["pye"]
 ---
 Funciones de los datos que miden según diferentes criterios la **dispersión de los datos** con **respecto a la medida de [posición]({{< ref "posición" >}}) central**.
 

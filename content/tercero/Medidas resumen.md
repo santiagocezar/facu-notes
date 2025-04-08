@@ -1,8 +1,7 @@
 ---
-title: Medidas resumen
+title: "Medidas resumen"
 tags: ["pye"]
 ---
-
 - [Posición]({{< ref "Posición" >}})
 - [Dispersión]({{< ref "Dispersión" >}})
 - Deformación:

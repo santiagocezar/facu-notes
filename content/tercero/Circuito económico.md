@@ -1,8 +1,7 @@
 ---
-title: Circuito económico
+title: "Circuito económico"
 tags: ["eco"]
 ---
-
 Modelo de la realidad economica, se utiliza para describir el funcionamiento del sistema economico.
 - **Simple**
 	- Solo dos [sectores económicos]({{< ref "sectores económicos" >}}): consumidores y productores

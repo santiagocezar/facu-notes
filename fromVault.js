@@ -54,6 +54,47 @@ function getExistingLinks(dirents) {
     )
 }
 
+const WIKILINK_RE = /\[\[(.*?)\]\]/g
+const FRONTMATTER_START = "---\n"
+const FRONTMATTER_END = "\n---\n"
+
+/**
+ * @param {string} content
+ */
+function parseContent(content) {
+    let last = 0
+
+    /** @type {string[]} */
+    const tags = []
+    let frontmatter = ""
+
+    if (content.startsWith(FRONTMATTER_START)) {
+        last += FRONTMATTER_START.length
+        const frontmatterEnd = content.indexOf(FRONTMATTER_END, last)
+        
+        if (frontmatterEnd >= 0) {
+            frontmatter = content.slice(4, frontmatterEnd + 1)
+            last = frontmatterEnd + FRONTMATTER_END.length
+        }
+    }
+
+    const tagLineEnd = content.indexOf("\n", last)
+
+    if (tagLineEnd >= 0) {
+        let tagsLine = content.slice(last, tagLineEnd).trim()
+        
+        for (const match of tagsLine.matchAll(/#(\w+)/g)) {
+            tags.push(match[1])
+        }
+        
+        last = tagLineEnd + 1
+    }
+    
+    let body = content.slice(last).trim()
+    return { frontmatter, tags, body }
+}
+
+
 /**
  * @param {Map<string, string>} existingLinks
  * @param {Dirent} dirent
@@ -68,40 +109,23 @@ async function convertFile(existingLinks, dirent, out) {
     if (dirent.name.endsWith(".md")) {
         const content = (await readFile(path)).toString("utf-8")
         
-        const tags = []
-
-        const firstLineEnd = content.indexOf("\n")
-        /** @type {string} */
-        let tagsLine = content.slice(0, firstLineEnd)
-        let rest = content.slice(firstLineEnd + 1)
-    
-        if (tagsLine) {
-            tagsLine = tagsLine.trim()
-            if (tagsLine.startsWith("#")) {
-                tags.push(...tagsLine.split(/\s+/).map(s => s.slice(1)))
-            } else {
-                rest = tagsLine + "\n" + rest
-            }
-        }
-    
-        
-        const writer = createWriteStream(outPath)
+        const data = parseContent(content)
         
         // based this on https://github.com/devidw/obsidian-to-hugo/blob/main/src/obsidian_to_hugo/wiki_links_processor.py
         
-        const newRest = rest ? rest.replaceAll(
-            /\[\[(.*?)\]\]/g,
+        const convertedBody = data.body.replaceAll(
+            WIKILINK_RE,
             (_orig, link) => wikiLinkToHugoLink(existingLinks, link)
-        ) : ""
+        )
 
         const newContent = 
-            "---\n"+
-            `title: ${dirent.name.slice(0, -3)}\n`+
-            `tags: ${JSON.stringify(tags)}\n`+
-            "---\n" + (newRest ?? "")
+            "---\n" +
+            data.frontmatter +
+            `title: ${JSON.stringify(dirent.name.slice(0, -3))}\n` +
+            `tags: ${JSON.stringify(data.tags)}\n` +
+            "---\n" + (convertedBody ?? "")
         
-
-        console.log(newContent)
+        const writer = createWriteStream(outPath)
 
         writer.write(
             newContent

@@ -1,8 +1,7 @@
 ---
-title: Tipo de cambio
+title: "Tipo de cambio"
 tags: ["eco"]
 ---
-
 Cuantos pesos para un dolar
 
 - **Nominal:** valor de referencia para los otros, depende del banco central
@@ -31,5 +30,3 @@ En 2022-2023:
 19. Dólar soja II
 20. Dólar solidario?
 21. Dólar tecno
-
-

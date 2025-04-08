@@ -1,5 +1,5 @@
 ---
-title: Materia - Probabilidad y Estadística
+title: "Materia - Probabilidad y Estadística"
 tags: ["pye","intro"]
 ---
 ## Tarea

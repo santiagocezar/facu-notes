@@ -1,8 +1,7 @@
 ---
-title: Estado
+title: "Estado"
 tags: ["eco"]
 ---
-
 Forma de organización política de una sociedad dentro de un territorio.
 
 Interviene en el [mercado]({{< ref "mercado" >}}) fallas para:

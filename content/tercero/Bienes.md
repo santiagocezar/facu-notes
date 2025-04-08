@@ -1,8 +1,7 @@
 ---
-title: Bienes
+title: "Bienes"
 tags: ["eco"]
 ---
-
 Los bienes libres:
 - No requieren sacrificio
 - No se transforman
@@ -30,4 +29,3 @@ No son gratuitos
 ###  Si pertenece
 - A un ente **privado**, como una empresa o a un [sujeto](#).
 - A un ente **público**, como el estado
-

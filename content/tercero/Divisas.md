@@ -1,6 +1,5 @@
 ---
-title: Divisas
-tags: []
+title: "Divisas"
+tags: ["eco"]
 ---
-Una moneda extranjera aceptada y respaldada por un valor legal, para hacer compras internacionale
 Una moneda extranjera aceptada y respaldada por un valor legal, para hacer compras internacionales

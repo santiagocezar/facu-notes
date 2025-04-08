@@ -1,8 +1,7 @@
 ---
-title: TP Diseño
+title: "TP Diseño"
 tags: ["dds"]
 ---
-
 Para todo el año
 
 1. Hacer lo del SAU

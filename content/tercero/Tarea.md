@@ -1,8 +1,7 @@
 ---
-title: Tarea
-tags: []
+title: "Tarea"
+tags: ["eco"]
 ---
-- [x] Ver **Naufrago** #eco
 - [x] Ver **La increíble historia de la Isla de las Rosas** #eco 
 - [x] ley 24521 (profesiones reguladas)
 - [x] Investigar última propiedad de Media aritmética

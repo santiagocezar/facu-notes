@@ -1,6 +1,5 @@
 ---
-title: Curtosis
-tags: []
+title: "Curtosis"
+tags: ["pye"]
 ---
-$$K=\frac{M_4}{\sigma^4}$
 $$K=\frac{M_4}{\sigma^4}$$

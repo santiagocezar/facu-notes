@@ -1,5 +1,5 @@
 ---
-title: Factores productivos
+title: "Factores productivos"
 tags: ["eco"]
 ---
 Son los [Recursos]({{< ref "Recursos" >}}) o **entradas** usados en el proceso de la [producción](#) por las [Empresas](#).

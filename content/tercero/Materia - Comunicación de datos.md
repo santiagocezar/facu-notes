@@ -1,5 +1,5 @@
 ---
-title: Materia - Comunicación de datos
+title: "Materia - Comunicación de datos"
 tags: ["intro","com"]
 ---
 **Trabajo de la materia (después de abril):** desarrollar, en grupos de  una solución (barata) a un problema cotidiano, trabajando

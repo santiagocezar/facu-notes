@@ -1,8 +1,7 @@
 ---
-title: Proyectos vs. Productos
+title: "Proyectos vs. Productos"
 tags: ["dds"]
 ---
-
 Ponemos un objetivo final, nos sirve de guía, nos permite definir el tiempo y un tope de presupuesto
 
 La gente que participa en un proyecto generalmente es fija,
@@ -16,4 +15,3 @@ Para un proyecto, es terminar lo prometido en el tiempo y presupuesto definido. 
 Para un producto se basa en el consumo del mismo, y eso dependerá del interés de la gente. Usualmente para el software se agregan funciones con el tiempo.
 ## Equipos
 En un proyecto cada equipo trabaja en algo. En los productos tiene que haber una mayor coordinación.
-

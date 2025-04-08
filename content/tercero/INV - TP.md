@@ -1,8 +1,7 @@
 ---
-title: INV - TP
+title: "INV - TP"
 tags: ["inv","tp"]
 ---
-
 ## TP1
 1. Armar el grupo
 2. Buscar dos temas, describir brevemente.
@@ -58,4 +57,4 @@ Comparación
 - Windows 7
 - Limitación de acceso en plataformas de Apple
 - Notificaciones más claras y en por correo.
-- 
+-

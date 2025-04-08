@@ -1,6 +1,6 @@
 ---
-title: Proyecto Final
+draft: "true"
+title: "Proyecto Final"
 tags: []
 ---
-- Semáforos inteligente
 - Semáforos inteligentes

@@ -1,6 +1,6 @@
 ---
-title: Requerimientos
-tags: []
+title: "Requerimientos"
+tags: ["dds"]
 ---
 Nunca cambian y deben estar bien definidos.
 

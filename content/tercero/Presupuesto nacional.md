@@ -1,6 +1,6 @@
 ---
-title: Presupuesto nacional
-tags: []
+title: "Presupuesto nacional"
+tags: ["eco"]
 ---
 Estimación financiera anual que muestra el movimiento de los egresos e ingresos que un gobierno necesita para cumplir con sus programas.
 

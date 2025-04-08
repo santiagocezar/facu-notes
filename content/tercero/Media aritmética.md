@@ -1,8 +1,7 @@
 ---
-title: Media aritmética
+title: "Media aritmética"
 tags: ["pye"]
 ---
-
 $$
 \mu=\frac{\sum^N_{i=1}x_i}{N}
 $$

@@ -1,5 +1,5 @@
 ---
-title: Variables cuantitativas
+title: "Variables cuantitativas"
 tags: ["pye"]
 ---
 - **Discretas:** en unidades, se pueden contar

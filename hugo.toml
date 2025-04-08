@@ -12,3 +12,4 @@ inline = [['\(', '\)'], ['$', '$']]
 
 [params]
 math = true
+disableSpecial1stPost = true
