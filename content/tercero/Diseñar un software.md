@@ -1,7 +1,10 @@
 ---
+draft: "true"
 title: "Diseñar un software"
-tags: ["dise"]
+tags: []
 ---
+#diseño-de-sistemas 
+
 ## Gestor de gastos
 
 1. Investigar sobre gestores de gastos existentes en el mercado, identificar funciones existentes, sus faltas y mejoras tentativas.
