@@ -1,6 +1,6 @@
 ---
 title: "Materia - Economía"
-tags: ["eco","intro"]
+tags: ["economia","intro"]
 ---
 ## Tarea
 ```dataview

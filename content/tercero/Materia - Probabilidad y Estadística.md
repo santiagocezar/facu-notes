@@ -1,6 +1,6 @@
 ---
 title: "Materia - Probabilidad y Estadística"
-tags: ["pye","intro"]
+tags: ["probabilidad","intro"]
 ---
 ## Tarea
 ```dataview

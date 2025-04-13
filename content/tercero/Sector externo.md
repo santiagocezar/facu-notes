@@ -1,5 +1,5 @@
 ---
 title: "Sector externo"
-tags: ["eco"]
+tags: ["economia"]
 ---
 Formado por los residentes de **otros países**, produce una **mayor competencia**.

@@ -1,6 +1,6 @@
 ---
 title: "Datos"
-tags: ["pye"]
+tags: ["probabilidad"]
 ---
 Valor de una [Variables]({{< ref "Variables" >}}) para cierta [Unidad de observación]({{< ref "Unidad de observación" >}})
 

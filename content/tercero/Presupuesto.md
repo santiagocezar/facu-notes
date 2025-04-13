@@ -1,6 +1,6 @@
 ---
 title: "Presupuesto"
-tags: ["eco"]
+tags: ["economia"]
 ---
 Presuponer, estimando gastos que se concretarán en el futuro.
 

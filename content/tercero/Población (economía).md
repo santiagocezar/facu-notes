@@ -1,6 +1,6 @@
 ---
 title: "Población (economía)"
-tags: ["eco"]
+tags: ["economia"]
 ---
 ## Clasificación
 - **Población activa:** participa en el [Producción]({{< ref "Producción" >}}). Tienen entre 16-60 años y la capacidad física y mental de trabajar, por alguna necesidad

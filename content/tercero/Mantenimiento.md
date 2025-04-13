@@ -1,6 +1,6 @@
 ---
 title: "Mantenimiento"
-tags: ["dds"]
+tags: ["dise"]
 ---
 Posterior a la [validación]({{< ref "validación" >}}), para el caso de los productos.
 

@@ -1,5 +1,5 @@
 ---
 title: "Enfoque producto"
-tags: ["eco"]
+tags: ["economia"]
 ---
 A costo de [Factores productivos]({{< ref "Factores productivos" >}})

@@ -1,6 +1,6 @@
 ---
 title: "Variable estandarizada"
-tags: ["pye"]
+tags: ["probabilidad"]
 ---
 $$z=\frac{x-\mu}{\sigma}
 $$$$z=\frac{x-\overline{x}}{S}$$

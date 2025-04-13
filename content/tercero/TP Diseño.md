@@ -1,6 +1,6 @@
 ---
 title: "TP Diseño"
-tags: ["dds"]
+tags: ["dise"]
 ---
 Para todo el año
 

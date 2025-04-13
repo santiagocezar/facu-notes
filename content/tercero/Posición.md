@@ -1,6 +1,6 @@
 ---
 title: "Posición"
-tags: ["pye"]
+tags: ["probabilidad"]
 ---
 Funciones de los datos que miden según diferentes criterios el centro de la distribución de frecuencia.
 

@@ -1,6 +1,6 @@
 ---
 title: "Dinero"
-tags: ["eco"]
+tags: ["economia"]
 ---
 Todo lo que sirve como medio de cambio, aceptado ampliamente como medio de pago
 - [Moneda]({{< ref "Moneda" >}})
@@ -15,6 +15,13 @@ Todo lo que sirve como medio de cambio, aceptado ampliamente como medio de pago
 
 ## Sirve como
 - Medio de cambio
-- Depósito de valor
-- Unidad de cuenta
+- Depósito de valor (ahorro)
+- Unidad de cuenta (se usa para valorizar bienes y servicios)
 - Patrón de pagos diferidos
+
+## Se demanda para
+- Por motivo transacción, para satisfacer necesidades
+- Por motivos de especulación, sobre el mercado o propiedades
+- Por motivo de precaución, por si surge algún problema
+
+## Oferta

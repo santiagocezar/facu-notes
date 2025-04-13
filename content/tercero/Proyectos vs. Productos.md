@@ -1,6 +1,6 @@
 ---
 title: "Proyectos vs. Productos"
-tags: ["dds"]
+tags: ["dise"]
 ---
 Ponemos un objetivo final, nos sirve de guía, nos permite definir el tiempo y un tope de presupuesto
 

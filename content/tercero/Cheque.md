@@ -1,6 +1,6 @@
 ---
 title: "Cheque"
-tags: ["eco"]
+tags: ["economia"]
 ---
 - **Común:** Tiene **una sola fecha**, la **fecha de emisión** que es también la de pago.
 - **Pago diferido:** Surgen por cheques comunes con **fecha de emisión en el futuro**, los cuales no tienen ninguna validez hasta que llegaba la fecha. Éste tiene una **fecha de pago**, como máximo 360 días después.

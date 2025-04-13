@@ -1,6 +1,6 @@
 ---
 title: "Ley de un solo precio"
-tags: ["eco"]
+tags: ["economia"]
 ---
 Cuando vendemos el mismo producto en diferentes lugares, debe comercializarse al mismo precio.
 

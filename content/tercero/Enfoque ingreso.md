@@ -2,4 +2,4 @@
 title: "Enfoque ingreso"
 tags: []
 ---
-#eco
+#economia

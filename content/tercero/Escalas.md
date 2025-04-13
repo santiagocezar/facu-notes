@@ -1,6 +1,6 @@
 ---
 title: "Escalas"
-tags: ["pye"]
+tags: ["probabilidad"]
 ---
 - **Nominal:** [Variables cualitativas]({{< ref "Variables cualitativas" >}}) que no tienen jerarquía, como el color, campo de estudio, estado civil.
 - **Ordinal:** [Variables cualitativas]({{< ref "Variables cualitativas" >}}) pero con un orden, como el estado de salud, notas en la primaria.

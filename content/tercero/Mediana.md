@@ -1,6 +1,6 @@
 ---
 title: "Mediana"
-tags: ["pye"]
+tags: ["probabilidad"]
 ---
 El **valor central** de la distribución **ordenada**, divide al conjunto ordenado en dos subconjuntos que contienen la misma cantidad de observaciones.
 

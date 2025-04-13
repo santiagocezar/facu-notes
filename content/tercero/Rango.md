@@ -1,6 +1,6 @@
 ---
 title: "Rango"
-tags: ["pye"]
+tags: ["probabilidad"]
 ---
 Diferencia entre el valor máximo y mínimo de la variable, el recorrido.
 

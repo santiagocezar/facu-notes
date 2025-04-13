@@ -1,6 +1,6 @@
 ---
 title: "Materia - Comunicación de datos"
-tags: ["intro","com"]
+tags: ["intro","comunicaci"]
 ---
 **Trabajo de la materia (después de abril):** desarrollar, en grupos de  una solución (barata) a un problema cotidiano, trabajando
 - **La interfaz:** puede ser web, móvil, escritorio...

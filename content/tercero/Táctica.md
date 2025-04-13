@@ -1,6 +1,6 @@
 ---
 title: "Táctica"
-tags: ["dds","glosario"]
+tags: ["dise","glosario"]
 ---
 Las acciones para cumplir con la [Estrategia]({{< ref "Estrategia" >}})
 

@@ -1,6 +1,6 @@
 ---
 title: "Media aritmética"
-tags: ["pye"]
+tags: ["probabilidad"]
 ---
 $$
 \mu=\frac{\sum^N_{i=1}x_i}{N}

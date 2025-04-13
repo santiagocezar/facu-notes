@@ -1,6 +1,6 @@
 ---
 title: "Efectos económicos de la devaluación"
-tags: ["eco"]
+tags: ["economia"]
 ---
 1. Efecto precio
 2. Efecto ingreso

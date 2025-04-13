@@ -2,4 +2,4 @@
 title: "Arquitectura"
 tags: []
 ---
-#dds
+#diseño-de-sistemas

@@ -1,6 +1,6 @@
 ---
 title: "Modo"
-tags: ["pye"]
+tags: ["probabilidad"]
 ---
 O moda, el **valor con frecuencia más alta** de la variable. Las distribuciones pueden ser:
 - **Uniformes:** cada valor se repite una sola vez

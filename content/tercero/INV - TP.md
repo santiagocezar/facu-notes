@@ -1,6 +1,6 @@
 ---
 title: "INV - TP"
-tags: ["inv","tp"]
+tags: ["investigaci","tp"]
 ---
 ## TP1
 1. Armar el grupo
@@ -57,4 +57,3 @@ Comparación
 - Windows 7
 - Limitación de acceso en plataformas de Apple
 - Notificaciones más claras y en por correo.
--

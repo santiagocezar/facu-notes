@@ -1,6 +1,6 @@
 ---
 title: "Servicios"
-tags: ["eco"]
+tags: ["economia"]
 ---
 Es una prestación personales donde se vale el hombre para satisfacer sus necesidades. 
 - Es **intangible**,

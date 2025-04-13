@@ -1,5 +1,5 @@
 ---
 title: "Implementación"
-tags: ["dds"]
+tags: ["dise"]
 ---
 En base del [diseño]({{< ref "diseño" >}}), hacer lo que dice

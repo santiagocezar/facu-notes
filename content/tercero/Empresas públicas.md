@@ -1,6 +1,6 @@
 ---
 title: "Empresas públicas"
-tags: ["eco"]
+tags: ["economia"]
 ---
 Una organización con actividad económica y fines de lucro, donde el [Estado]({{< ref "Estado" >}}) tiene la mitad más uno de las acciones.
 

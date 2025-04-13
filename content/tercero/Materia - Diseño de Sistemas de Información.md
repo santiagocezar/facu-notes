@@ -1,6 +1,6 @@
 ---
 title: "Materia - Diseño de Sistemas de Información"
-tags: ["intro","dds"]
+tags: ["intro","dise"]
 ---
 Es una materia...
 

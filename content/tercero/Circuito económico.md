@@ -1,6 +1,6 @@
 ---
 title: "Circuito económico"
-tags: ["eco"]
+tags: ["economia"]
 ---
 Modelo de la realidad economica, se utiliza para describir el funcionamiento del sistema economico.
 - **Simple**

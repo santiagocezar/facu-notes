@@ -1,6 +1,6 @@
 ---
 title: "Regimen de tipo de cambio"
-tags: ["eco"]
+tags: ["economia"]
 ---
 Conjunto de **reglas** que describen el papel del **banco central** en el [mercado de divisas]({{< ref "mercado de divisas" >}}).
 - **Flexible, libre o de flotación limpia:** Libre juego de oferentes y demandantes, el banco central no interviene

@@ -1,6 +1,6 @@
 ---
 title: "Producción"
-tags: ["eco"]
+tags: ["economia"]
 ---
 Se realiza el [Proceso productivo]({{< ref "Proceso productivo" >}}).
 ## Sectores

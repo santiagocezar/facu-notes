@@ -1,6 +1,6 @@
 ---
 title: "Momentos naturales"
-tags: ["pye"]
+tags: ["probabilidad"]
 ---
 $$A_r=\frac{\sum^N_{i=1}{x_i}^r}{N}$$
 Media aritmética de la potencia $r$ de la variable.

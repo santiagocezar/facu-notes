@@ -1,7 +1,9 @@
 ---
 title: "Bienes"
-tags: ["eco"]
+tags: ["economia"]
 ---
+Todo medio **capaz de satisfacer** una [necesidad](#), tanto de los individuos como de la sociedad.
+
 Los bienes libres:
 - No requieren sacrificio
 - No se transforman

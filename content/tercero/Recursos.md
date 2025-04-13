@@ -1,6 +1,6 @@
 ---
 title: "Recursos"
-tags: ["eco"]
+tags: ["economia"]
 ---
 Conjunto amplio de elementos heterogéneos, susceptibles de ser utilizados para generar  [bienes]({{< ref "bienes" >}}) y [servicios]({{< ref "servicios" >}}).
 ## Clasificación

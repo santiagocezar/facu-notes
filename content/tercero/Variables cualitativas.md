@@ -1,5 +1,5 @@
 ---
 title: "Variables cualitativas"
-tags: ["pye"]
+tags: ["probabilidad"]
 ---
-Características o atributos
+Características o atributos que **no** se pueden expresar de forma numérica.

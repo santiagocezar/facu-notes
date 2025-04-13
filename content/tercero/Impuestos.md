@@ -1,6 +1,6 @@
 ---
 title: "Impuestos"
-tags: ["eco"]
+tags: ["economia"]
 ---
 - Directos: es proporcional al monto
 - Indirectos: es fijo

@@ -1,6 +1,6 @@
 ---
 title: "Actividad 2 Eco"
-tags: ["eco"]
+tags: ["economia"]
 ---
 | País           | GINI  | PBI   |
 | -------------- | ----- | ----- |

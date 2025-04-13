@@ -1,5 +1,5 @@
 ---
 title: "Pagaré"
-tags: ["eco"]
+tags: ["economia"]
 ---
 Similar a un [cheque]({{< ref "cheque" >}}), pero el pago puede no ser solamente,

@@ -1,6 +1,6 @@
 ---
 title: "Asimetría"
-tags: ["pye"]
+tags: ["probabilidad"]
 ---
 Una distribución de datos puede ser
 - **Asimétrica negativa:** Media < Mediana < Modo

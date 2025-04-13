@@ -1,6 +1,6 @@
 ---
 title: "Mercado"
-tags: ["eco"]
+tags: ["economia"]
 ---
 Lugar de intercambio, participa un **oferente** (alguien que ofrece) y un **demandante** (alguien que lo quiere).
 

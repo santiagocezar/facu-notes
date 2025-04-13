@@ -1,6 +1,6 @@
 ---
 title: "Requerimientos"
-tags: ["dds"]
+tags: ["dise"]
 ---
 Nunca cambian y deben estar bien definidos.
 

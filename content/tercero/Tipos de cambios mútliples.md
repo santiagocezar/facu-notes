@@ -1,5 +1,5 @@
 ---
 title: "Tipos de cambios mútliples"
-tags: ["eco"]
+tags: ["economia"]
 ---
 Dos o más [tipos de cambio](#) oficial, depende del tipo de transacción.

@@ -1,6 +1,6 @@
 ---
 title: "Moneda"
-tags: ["eco"]
+tags: ["economia"]
 ---
 Es el signo representativode l valor de las cosas
 

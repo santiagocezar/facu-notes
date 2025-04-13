@@ -1,6 +1,6 @@
 ---
 title: "Problemón 13-03"
-tags: ["dds"]
+tags: ["dise"]
 ---
 Menos tiempo, más plata. Que prácticas vamos a usar, que [estrategias](#) vamos a seguir.
 

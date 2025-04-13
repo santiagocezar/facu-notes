@@ -1,6 +1,6 @@
 ---
 title: "Estadística"
-tags: ["pye"]
+tags: ["probabilidad"]
 ---
 Rama de la ciencia que realiza la **toma**, **organización**, **presentación** y **análisis** de [Datos]({{< ref "Datos" >}})
 

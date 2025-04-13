@@ -2,4 +2,4 @@
 title: "Sujetos"
 tags: []
 ---
-#eco
+#economia

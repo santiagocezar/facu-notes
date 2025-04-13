@@ -1,6 +1,6 @@
 ---
 title: "Sector gobierno"
-tags: ["eco"]
+tags: ["economia"]
 ---
 - Administración central
 - Administraciones provinciales, municipales y comunales

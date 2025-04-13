@@ -1,6 +1,6 @@
 ---
 title: "Varianza"
-tags: ["pye"]
+tags: ["probabilidad"]
 ---
 $$
 \sigma^2=\frac{\sum_{i=1}^N(x_i-\mu)^2}{N}=\mu_{x²}-(\mu_x)²

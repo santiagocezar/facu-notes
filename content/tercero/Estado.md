@@ -1,6 +1,6 @@
 ---
 title: "Estado"
-tags: ["eco"]
+tags: ["economia"]
 ---
 Forma de organización política de una sociedad dentro de un territorio.
 

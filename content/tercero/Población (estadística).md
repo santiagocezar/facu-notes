@@ -1,6 +1,6 @@
 ---
 title: "Población (estadística)"
-tags: ["pye"]
+tags: ["probabilidad"]
 ---
 El conjunto de interés de individuos con características comunes, de tamaño $N$
 

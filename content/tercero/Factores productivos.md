@@ -1,12 +1,9 @@
 ---
 title: "Factores productivos"
-tags: ["eco"]
+tags: ["economia"]
 ---
-Son los [Recursos]({{< ref "Recursos" >}}) o **entradas** usados en el proceso de la [producción](#) por las [Empresas](#).
-
+Son las **entradas** o [recursos]({{< ref "recursos" >}}) productivos usados por [empresas](#) o productores para [producir](#) [bienes]({{< ref "bienes" >}}) y [servicios]({{< ref "servicios" >}}), productos para consumo o para uso posterior en la producción, las **salidas**.
 ## Clasificación
-- **La tierra o recursos naturales**, **alquilados** por las empresas
-- **El trabajo**, el **tiempo** y las **capacidades intelectuales**, **remunerados** con un sueldo, salario, quincena o jornal (retribuciones).
-- **Capital físico:** [bienes]({{< ref "bienes" >}}) duraderos **no para consumo** sino para producir otros bienes.
-- **Capital financiero:** intereses, [costo de oportunidad]({{< ref "costo de oportunidad" >}})
-- **Capital humano:** conocimientos y cualificaciones adquiridos por los **individuos** por medio de la **educación** y de la **experiencia**.
+- **Tierra o recursos naturales:** lo que aporta la naturaleza al proceso productivo (**alquilados** por las empresas)
+- **Trabajo**: **tiempo** y **capacidades intelectuales** dedicadas al proceso productivo, **remunerados** con un sueldo, salario, quincena o jornal (retribuciones).
+- [Capital]({{< ref "Capital" >}})

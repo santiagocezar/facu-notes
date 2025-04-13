@@ -2,4 +2,4 @@
 title: "Cuenta capital"
 tags: []
 ---
-#eco
+#economia

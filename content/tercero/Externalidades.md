@@ -1,6 +1,6 @@
 ---
 title: "Externalidades"
-tags: ["eco"]
+tags: ["economia"]
 ---
 Acto económico de una gente tiene impacto sobre otro sin el pago de un precio.
 - Positivo, para el resto de la población

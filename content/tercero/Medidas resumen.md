@@ -1,6 +1,6 @@
 ---
 title: "Medidas resumen"
-tags: ["pye"]
+tags: ["probabilidad"]
 ---
 - [Posición]({{< ref "Posición" >}})
 - [Dispersión]({{< ref "Dispersión" >}})

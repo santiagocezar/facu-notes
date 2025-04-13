@@ -1,6 +1,6 @@
 ---
 title: "Tributos"
-tags: ["eco"]
+tags: ["economia"]
 ---
 - [Impuestos]({{< ref "Impuestos" >}}): son obligatorios, no tienen contrapartida (un destino específico para el gasto).
 - Comercio exterior: aranceles a las importaciones y retenciones a las exportaciones.

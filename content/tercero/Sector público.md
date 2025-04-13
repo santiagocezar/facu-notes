@@ -1,6 +1,6 @@
 ---
 title: "Sector público"
-tags: ["eco"]
+tags: ["economia"]
 ---
 Todo lo que depende del estado
 - [Sector gobierno]({{< ref "Sector gobierno" >}})

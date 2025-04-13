@@ -1,6 +1,6 @@
 ---
 title: "Triangulo de hierro"
-tags: ["dds"]
+tags: ["dise"]
 ---
 Para hacer algo necesito tres variables
 - Alcance: la cantidad que voy a hacer

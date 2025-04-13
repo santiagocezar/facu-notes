@@ -1,6 +1,6 @@
 ---
 title: "Coeficiente de variación"
-tags: ["pye"]
+tags: ["probabilidad"]
 ---
 $$Cv=\frac\sigma\mu\cdot 100\% $$
 $$cv=\frac S{\overline{x}}\cdot 100\% $$

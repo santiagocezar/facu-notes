@@ -1,6 +1,6 @@
 ---
 title: "Tipo de cambio"
-tags: ["eco"]
+tags: ["economia"]
 ---
 Cuantos pesos para un dolar
 
