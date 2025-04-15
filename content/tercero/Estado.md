@@ -2,26 +2,19 @@
 title: "Estado"
 tags: ["economia"]
 ---
-Forma de organización política de una sociedad dentro de un territorio.
+Forma de **organización política** de una sociedad dentro de un **territorio**. 
 
-Interviene en el [mercado]({{< ref "mercado" >}}) fallas para:
-- Incrementar la eficiencia, solucionar problemas de mercado por la ausencia de competencia:
-	- Mercado monopólico: no hay incentivo para innovar, calidad y más.
-	- Mercado oligopólico: las grandes empresas se comen a las más pequeñas, pocas empresas que se "amigan" para formar un mercado similar al monopólico.
-- Fomentar la igualdad, mediante la renta, para que las personas puedan cubrir necesidades básicas. Empleando
-	- Impuestos progresivos
-	- Asignaciones (transferencias, para las personas)
-	- Subvenciones (subsidios, para las empresas)
-- Fomentar estabilidad y el crecimiento macroeconómico, mediante políticas fiscales o monetaria
-	- Reduciendo el desempleo
-	- Reduciendo la inflación
-	- Fomentando el crecimiento económico, mayor calidad de vida, mayor producción, mayor PBI
-- Gestiona la política económica internacional
-	- Reduciendo las barreras arancelarias, libre comercio y circulación entre países (Mercosur, Unión Europea).
-	- Gestionando los programas de ayuda
-	- Coordinación de la política macroeconómica
-	- Protección del medio ambiente global
+**Regulan** la [actividad económica]({{< ref "actividad económica" >}}) de la perspectiva **macroeconómica** y **microeconómica**, corrigiendo o mejorando la forma en que actúan los [mercados](#) mediante la legislación o la regulación.
 
-Medidas para fomentar la competencia:
-- Mediante la legislación
-- Mediante la regulación
+Los motivos para intervenir son:
+- [Redistribución del ingreso y equidad]({{< ref "Redistribución del ingreso y equidad" >}}).
+- [Razones macroeconómicas](#).
+- La existencia de [fallas del mercado]({{< ref "fallas del mercado" >}}).
+
+Gestiona la política económica internacional
+- Reduciendo las barreras arancelarias, libre comercio y circulación entre países (Mercosur, Unión Europea).
+- Gestionando los programas de ayuda
+- Coordinación de la política macroeconómica
+- Protección del medio ambiente global
+
+Se conforma por el [sector gobierno]({{< ref "sector gobierno" >}}), las [empresas públicas]({{< ref "empresas públicas" >}}), etc.

@@ -15,7 +15,24 @@ tags: []
 ## Requisitos
 
 **Funcionales:**
-- Se deben poder registrar gastos
+- Se debe poder registrar egresos o ingresos del usuario, de manera que sean identificables posteriormente
+- Se debe poder cargar una foto de la operación, para facilitar la identificación.
+- Se debe registrar el lugar de la operación usando geolocalización.
+- Se debe registrar la fecha de la operación.
+- Se debe mostrar en un mapa el lugar de la operación.
+- Se debe ofrecer la posibilidad de definir la índole de las operaciones durante la carga o a posteriori.
+- Se debe poder crear etiquetas para aplicar en operaciones.
+- Se debe poder recuperar los datos de las operaciones.
+- Se debe poder realizar la conversión de moneda extranjera.
+- Se debe permitir filtrar los gastos según su fecha, índole o etiqueta.
+- Se debe mostrar sumas totales para los datos con o sin filtro.
+- Se debe mostrar resúmenes históricos de ingresos y egresos, individuales y combinados.
+- Se debe permitir exportar los datos.
+
+**No funcionales:**
+- La interfaz debe funcionar sin conexión a internet.
+- La carga debe ser rápida para el usuario.
+- Se debe poder realizar un respaldo periódico y privado de los datos fuera del dispositivo, y recuperarlos.
 # DOCUMENTAR EL RAZONAMIENTO
 
 Generar evidencias del diseño y testing.

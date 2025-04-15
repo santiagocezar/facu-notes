@@ -2,7 +2,8 @@
 title: "Externalidades"
 tags: ["economia"]
 ---
-Acto económico de una gente tiene impacto sobre otro sin el pago de un precio.
+La [actividad económica]({{< ref "actividad económica" >}}) de un agente **puede tener impacto sobre otro**, **sin que se refleje en el precio** de su producto.
+
 - Positivo, para el resto de la población
 - Negativo, los que en general controla el [Estado]({{< ref "Estado" >}}).
 

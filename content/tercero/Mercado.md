@@ -2,6 +2,6 @@
 title: "Mercado"
 tags: ["economia"]
 ---
-Lugar de intercambio, participa un **oferente** (alguien que ofrece) y un **demandante** (alguien que lo quiere).
+Es el **mecanismo** por el cual los **compradores** y **vendedores** (**demandantes** y **oferentes**) interactúan para fijar los [Precios]({{< ref "Precios" >}}) e [intercambian](#) [bienes y servicios](#)
 
-En una economía ideal, todos los bienes y servicios se comercializan a precios de mercado y se asignan los recursos para que se produzcan los bienes necesarios.
+(Capítulo 2)

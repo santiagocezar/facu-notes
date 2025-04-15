@@ -14,10 +14,13 @@ Principalmente, nos enfocamos en los **bienes económicos**, los cuales:
 - y se consideran útiles para satisfacer **necesidades concretas**.
 ## Clasificación
 
-Por su naturaleza se clasifican en
+Por su naturaleza se clasifican en:
 - Bienes de **consumo**: bienes finales
 	- de uso **único**, como la comida
 	- de uso **durable**, como los inmuebles
 - Bienes de [capital]({{< ref "capital" >}}): bienes intermedios que se usan para la [producción](#)
 
-También se clasifican por si le pertenece al [sector público]({{< ref "sector público" >}}) o el [sector privado](#).
+Dependiendo a quien le pertenezca, se consideran
+- Bienes o [servicios](#) **públicos** si les pertenece al [sector público](#), son indivisibles y el costo de extender el servicio a otra persona es 0.
+- Bienes privados, cuyo consumo es rival al de cualquier otra persona, y es además excluible.
+También se clasifican por si le pertenece al  o el [sector privado](#).
