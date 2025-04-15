@@ -1,0 +1,4 @@
+---
+title: "Sistema económico"
+tags: []
+---

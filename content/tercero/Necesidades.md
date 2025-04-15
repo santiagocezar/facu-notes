@@ -2,9 +2,15 @@
 title: "Necesidades"
 tags: ["economia"]
 ---
-Son **ilimitadas en número**, **limitadas en capacidad**, **complementarias**, **recurrentes** y **concurrentes**. 
+Es el deseo de un individuo de conseguir algo que no tiene. Son:
 
-Los [sujetos]({{< ref "sujetos" >}}) lo satisfacen llevando a cabo actividades productivas. Generalmente, se priorizan las necesidades más críticas.
+- **Ilimitadas en número**,
+- **limitadas en capacidad**, 
+- **complementarias**, 
+- **recurrentes**
+- y **concurrentes**. 
+
+Los [sujetos]({{< ref "sujetos" >}}) lo satisfacen llevando a cabo [actividades productivas]({{< ref "actividades productivas" >}}). Generalmente, se priorizan las necesidades más críticas.
 ## Clasificación
 - por **carencia** (no tener) o **apetencia** (querer),
 - **física** o **espirituales**,

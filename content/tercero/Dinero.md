@@ -2,7 +2,8 @@
 title: "Dinero"
 tags: ["economia"]
 ---
-Todo lo que sirve como medio de cambio, aceptado ampliamente como medio de pago
+Es todo medio de pago, generalmente aceptado que puede intercambiarse por [bienes y servicios](#).
+
 - [Moneda]({{< ref "Moneda" >}})
 - [Cheque]({{< ref "Cheque" >}})
 - [Pagaré]({{< ref "Pagaré" >}})

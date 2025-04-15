@@ -12,6 +12,10 @@ tags: []
 3. Realizar un boceto de la aplicación, no muy alejado de las alternativas existentes si su diseño se considera bueno.
 4. Implementar las funciones básicas de la aplicación
 
+## Requisitos
+
+**Funcionales:**
+- Se deben poder registrar gastos
 # DOCUMENTAR EL RAZONAMIENTO
 
 Generar evidencias del diseño y testing.
