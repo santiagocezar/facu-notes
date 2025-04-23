@@ -61,7 +61,7 @@ const FRONTMATTER_END = "\n---\n"
 /**
  * @param {string} content
  */
-function parseContent(content) {
+function parseNote(content) {
     let last = 0
 
     /** @type {string[]} */
@@ -109,20 +109,20 @@ async function convertFile(existingLinks, dirent, out) {
     if (dirent.name.endsWith(".md")) {
         const content = (await readFile(path)).toString("utf-8")
         
-        const data = parseContent(content)
+        const note = parseNote(content)
         
         // based this on https://github.com/devidw/obsidian-to-hugo/blob/main/src/obsidian_to_hugo/wiki_links_processor.py
         
-        const convertedBody = data.body.replaceAll(
+        const convertedBody = note.body.replaceAll(
             WIKILINK_RE,
             (_orig, link) => wikiLinkToHugoLink(existingLinks, link)
         )
 
         const newContent = 
             "---\n" +
-            data.frontmatter +
+            note.frontmatter +
             `title: ${JSON.stringify(dirent.name.slice(0, -3))}\n` +
-            `tags: ${JSON.stringify(data.tags)}\n` +
+            `tags: ${JSON.stringify(note.tags)}\n` +
             "---\n" + (convertedBody ?? "")
         
         const writer = createWriteStream(outPath)

@@ -2,7 +2,7 @@
 title: "Fallas del mercado"
 tags: ["economia"]
 ---
-Es cuando el [mercado]({{< ref "mercado" >}}) no asigna **eficientemente** los [recursos]({{< ref "recursos" >}}) por sí mismo.
+Es cuando el [mercado]({{< ref "mercado" >}}) no asigna **eficientemente** los [Recurso]({{< ref "Recurso" >}}) por sí mismo.
 
 Puede ser por la **ausencia de competencia**:
 - Mercado monopólico: no hay incentivo para innovar, calidad y más.

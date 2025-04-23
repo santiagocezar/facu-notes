@@ -2,8 +2,13 @@
 title: "Oferta monetaria"
 tags: ["economia"]
 ---
-Cantidad de medios de pago de que dispone una economia para realizar transacciones. Depende que considere como medio de pago, según la liquidez:
-- **M0:** Efectivo
-- **M1:** Efectivo + Cuenta corriente
-- **M2:** Efectivo + Cuenta corriente + Caja de ahorro
-- **M3:** Efectivo + Cuenta corriente + Caja de ahorro + Plazo fijo
+Es la **cantidad de [dinero]({{< ref "dinero" >}}) en circulación** de una economía, el valor del medios de pago generalmente aceptado para realizar transacciones. 
+
+## Agregado monetario
+
+Cuantifican el dinero existente en una **economía**, el [BCRA](#) los clasifica según su [liquidez]({{< ref "liquidez" >}}):
+
+- **M0:** Dinero **efectivo**
+- **M1:** M0 + [Cuenta corriente]({{< ref "Depósito#" >}})
+- **M2:** M1 + [Caja de ahorro]({{< ref "Depósito#" >}})
+- **M3:** M2 + [Plazo fijo]({{< ref "Depósito#" >}})

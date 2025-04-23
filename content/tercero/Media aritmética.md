@@ -5,7 +5,7 @@ tags: ["probabilidad"]
 $$
 \mu=\frac{\sum^N_{i=1}x_i}{N}
 $$
-El promedio, la suma de todos los valores de la variable dividido por la cantidad de datos observados.
+El promedio, la suma de todos los valores de la variable dividido por la cantidad de datos observados. Su desventaja es que sensible a valores extremos
 
 ## Propiedades
 - La media de una **constante** es la constante misma.
@@ -25,4 +25,3 @@ El promedio, la suma de todos los valores de la variable dividido por la cantida
       \frac{\sum^N_{i=1}x_i\cdot k}{N}=\frac{\sum^N_{i=1}x_i}{N}\cdot k=\mu_x\cdot k
   $$
 - **Operar algebraicamente**, puedo tomar las medias de medias parciales, ponderándolas en base al tamaño de la muestra.
-- Su desventaja es que sensible a valores extremos

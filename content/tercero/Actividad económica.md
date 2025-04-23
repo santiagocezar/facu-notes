@@ -2,6 +2,6 @@
 title: "Actividad económica"
 tags: ["economia"]
 ---
-Conjunto de actos, realizados por el hombre, con el objeto de crear [bienes]({{< ref "bienes" >}}), proveer [servicios]({{< ref "servicios" >}}) o agregar utilidad (valor agregado) a [bienes]({{< ref "bienes" >}}) ya existentes.
+Conjunto de actos, realizados por el hombre, con el objeto de crear un [bien](#), proveer [servicios](#) o agregar utilidad ([valor agregado]({{< ref "valor agregado" >}})) a [bienes](#) ya existentes.
 
-Adaptan [recursos]({{< ref "recursos" >}}) para satisfacer [necesidades]({{< ref "necesidades" >}})
+Adaptan [recursos](#) para satisfacer una [necesidad](#)

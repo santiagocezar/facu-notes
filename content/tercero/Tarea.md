@@ -6,7 +6,15 @@ tags: ["economia"]
 - [x] ley 24521 (profesiones reguladas)
 - [x] Investigar última propiedad de Media aritmética
 - [x] Qué tipos de cambio había fines 2022?
-- [ ] Plantear los requerimientos para DDS
+- [ ] Plantear (mejor) los requerimientos para DDS
+- [x] Estudiar para economía
+- [ ] Planificar para el Club
+- [ ] Diagnóstico de comprensión lectora
+- [x] Diagnóstico pedagógico
+- [ ] IEF
+- [ ] Green Map
+- [x] Actividad de seguimiento PyE
+- [ ] Marco teórico de investigación
 
 ## Archivos sin etiquetar
 ```dataview

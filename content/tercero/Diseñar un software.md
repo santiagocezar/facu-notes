@@ -17,7 +17,7 @@ tags: []
 **Funcionales:**
 - Se debe poder registrar egresos o ingresos del usuario, de manera que sean identificables posteriormente
 - Se debe poder cargar una foto de la operación, para facilitar la identificación.
-- Se debe registrar el lugar de la operación usando geolocalización.
+- Se necesita cargar el lugar de la operación usando geolocalización.
 - Se debe registrar la fecha de la operación.
 - Se debe mostrar en un mapa el lugar de la operación.
 - Se debe ofrecer la posibilidad de definir la índole de las operaciones durante la carga o a posteriori.
@@ -36,6 +36,8 @@ tags: []
 # DOCUMENTAR EL RAZONAMIENTO
 
 Generar evidencias del diseño y testing.
+
+Para los diagramas de secuencia usar sequencediagram.org
 
 Plantear los r
 ## Prior art
