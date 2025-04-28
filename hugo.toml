@@ -1,6 +1,6 @@
 baseURL = 'https://resumen.flor.cez.ar/'
 languageCode = 'en-us'
-title = 'Notas de la facu'
+title = 'Resumen Flor'
 theme = 'PaperModX'
 defaultOutputFormat = 'html'
 
