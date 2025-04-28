@@ -1,0 +1,8 @@
+---
+title: "Ley de cementerios laicos"
+tags: []
+---
+- Estableció la no discriminación por credo religioso en el entierro de los cementerios municipales
+- 2 de agosto de 1883
+	*VER*: "[Cronología]({{< ref "Cronología" >}})"
+- [Julio Argentino Roca]({{< ref "Julio Argentino Roca" >}})

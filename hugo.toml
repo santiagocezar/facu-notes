@@ -1,4 +1,4 @@
-baseURL = 'https://pages.cez.ar/facu-notes'
+baseURL = 'https://resumen.flor.cez.ar/'
 languageCode = 'en-us'
 title = 'Notas de la facu'
 theme = 'PaperModX'

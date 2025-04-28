@@ -1,4 +1,0 @@
----
-title: "Tablas simples"
-tags: []
----
