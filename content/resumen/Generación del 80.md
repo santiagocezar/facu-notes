@@ -2,7 +2,7 @@
 title: "Generación del 80"
 tags: []
 ---
-- [Grupo dirigente](#)
+- [Grupo dirigente]({{< ref "Partido Autonomista Nacional (P.A.N.)" >}})
 
 - Único partido(Régimen conservador)
 

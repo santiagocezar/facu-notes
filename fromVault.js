@@ -21,6 +21,7 @@ function wikiLinkToHugoLink(existingLinks, wikiLinkContent) {
     let text = wikiLinkContent
     let frag = ""
 
+
     const textDivider = wikiLinkContent.indexOf("|")
     if (textDivider >= 0) {
         link = wikiLinkContent.slice(0, textDivider)
@@ -28,12 +29,13 @@ function wikiLinkToHugoLink(existingLinks, wikiLinkContent) {
     }
 
     const fragmentDivider = link.indexOf("#")
-    if (textDivider >= 0) {
-        link = link.slice(0, fragmentDivider) 
+    if (fragmentDivider >= 0) {
+        link = link.slice(0, fragmentDivider)
         frag = "#" + link.slice(fragmentDivider + 1).toLowerCase().replaceAll(" ", "-")
     }
-
     const realLink = existingLinks.get(link.toLowerCase())
+
+    console.log({link, text, realLink})
     if (realLink) {
         return `[${text}]({{< ref "${link + frag}" >}})`
     } else {
@@ -145,6 +147,8 @@ const out = resolve("./content/resumen")
 const files = await tree(resolve(import.meta.dirname, path))
 
 const existingLinks = getExistingLinks(files)
+
+console.log(existingLinks)
 
 await mkdir(out, {
     recursive: true

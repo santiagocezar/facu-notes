@@ -2,7 +2,7 @@
 title: "José Figueroa Alcorta"
 tags: []
 ---
-Fue uno de los [presidentes](#) de la [Generación del 80]({{< ref "Generación del 80" >}})
+Fue uno de los [presidentes]({{< ref "Presidentes" >}}) de la [Generación del 80]({{< ref "Generación del 80" >}})
 
 ##### 1906-1910:
 *VER*: "[Cronología]({{< ref "Cronología" >}})"
@@ -16,4 +16,4 @@ Impulsa a  [Roque Sáenz Peña]({{< ref "Roque Sáenz Peña" >}}) como sucesor 
 **Centenario de la revolución de mayo**
 - Se buscaban vínculos con Europa.
 - Reclaman herencia hispánica 
-- Se sanciona la [ley](#) de defensa nacional.
+- Se sanciona la [ley]({{< ref "Leyes" >}}) de defensa nacional.
