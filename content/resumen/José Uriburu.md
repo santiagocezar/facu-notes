@@ -2,6 +2,8 @@
 title: "José Uriburu"
 tags: []
 ---
+Fue uno de los [presidentes](#) de la [Generación del 80]({{< ref "Generación del 80" >}})
+
 ##### 1894-1898:
 *VER*: "[Cronología]({{< ref "Cronología" >}})"
 

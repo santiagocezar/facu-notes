@@ -2,6 +2,8 @@
 title: "José Figueroa Alcorta"
 tags: []
 ---
+Fue uno de los [presidentes](#) de la [Generación del 80]({{< ref "Generación del 80" >}})
+
 ##### 1906-1910:
 *VER*: "[Cronología]({{< ref "Cronología" >}})"
 

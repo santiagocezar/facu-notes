@@ -77,7 +77,7 @@ function parseNote(content) {
             last = frontmatterEnd + FRONTMATTER_END.length
         }
     }
-
+/*
     const tagLineEnd = content.indexOf("\n", last)
 
     if (tagLineEnd >= 0) {
@@ -89,7 +89,7 @@ function parseNote(content) {
         
         last = tagLineEnd + 1
     }
-    
+    */
     let body = content.slice(last).trim()
     return { frontmatter, tags, body }
 }

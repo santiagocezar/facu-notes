@@ -2,6 +2,7 @@
 title: "Modelo Agroexportador"
 tags: []
 ---
+[Generación del 80]({{< ref "Generación del 80" >}})
 Los grandes recursos agrícolas, la disponibilidad de capitales externos y la mano de obra por población inmigrante, permitieron el desarrollo de este modelo
 
 Los principales bienes fueron: 

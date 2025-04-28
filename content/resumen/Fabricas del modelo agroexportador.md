@@ -2,6 +2,9 @@
 title: "Fabricas del modelo agroexportador"
 tags: []
 ---
+[Modelo Agroexportador]({{< ref "Modelo Agroexportador" >}})
+
+
 | Fabrica de                            | Lugar  | Materiales                       |
 | ------------------------------------- | ------ | -------------------------------- |
 | Aceites vegetales                     | San    | Lino y maní                      |

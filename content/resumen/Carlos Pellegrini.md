@@ -2,6 +2,8 @@
 title: "Carlos Pellegrini"
 tags: []
 ---
+Fue uno de los [presidentes](#) de la [Generación del 80]({{< ref "Generación del 80" >}})
+
 ##### 1890-1892:
 *VER*: "[Cronología]({{< ref "Cronología" >}})"
 

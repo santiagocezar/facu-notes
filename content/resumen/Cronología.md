@@ -2,6 +2,8 @@
 title: "Cronología"
 tags: []
 ---
+#### 1880 - 1916 [Generación del 80]({{< ref "Generación del 80" >}})
+
 #### Partidos
 1880 [Partido Autonomista Nacional (P.A.N.)]({{< ref "Partido Autonomista Nacional (P.A.N.)" >}})
 1890 [Unión Cívica (U.C.)]({{< ref "Unión Cívica (U.C.)" >}})

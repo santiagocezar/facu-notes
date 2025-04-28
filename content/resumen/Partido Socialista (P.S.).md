@@ -2,6 +2,7 @@
 title: "Partido Socialista (P.S.)"
 tags: []
 ---
+[Opositores del P.A.N.]({{< ref "Opositores del P.A.N." >}})
 ##### Referente:
 - Juan B. Justo
 

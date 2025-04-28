@@ -2,6 +2,7 @@
 title: "AAAA"
 tags: []
 ---
+[Cronología]({{< ref "Cronología" >}})
 [Generación del 80]({{< ref "Generación del 80" >}})
 [Partido Autonomista Nacional (P.A.N.)]({{< ref "Partido Autonomista Nacional (P.A.N.)" >}})
 [Oligarquía]({{< ref "Oligarquía" >}})

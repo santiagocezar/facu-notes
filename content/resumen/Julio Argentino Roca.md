@@ -2,6 +2,7 @@
 title: "Julio Argentino Roca"
 tags: []
 ---
+Fue uno de los [presidentes](#) de la [Generación del 80]({{< ref "Generación del 80" >}})
 #### Primera gobernación
 ##### 1880-1886:
 *VER*: "[Cronología]({{< ref "Cronología" >}})"

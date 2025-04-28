@@ -2,6 +2,7 @@
 title: "Unión Cívica (U.C.)"
 tags: []
 ---
+[Opositores del P.A.N.]({{< ref "Opositores del P.A.N." >}})
 ##### Referentes: 
 - [Leandro N. Alem]({{< ref "Leandro N. Alem" >}})
 - [Bartolomé Mitre]({{< ref "Bartolomé Mitre" >}})

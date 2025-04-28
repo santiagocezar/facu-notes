@@ -2,6 +2,8 @@
 title: "Manuel Quintana"
 tags: []
 ---
+Fue uno de los [presidentes](#) de la [Generación del 80]({{< ref "Generación del 80" >}})
+
 ##### 1904-1906:
 *VER*: "[Cronología]({{< ref "Cronología" >}})"
 

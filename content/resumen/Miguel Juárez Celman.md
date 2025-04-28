@@ -2,6 +2,8 @@
 title: "Miguel Juárez Celman"
 tags: []
 ---
+Fue uno de los [presidentes](#) de la [Generación del 80]({{< ref "Generación del 80" >}})
+
 ##### 1886-1890:
 *VER*: "[Cronología]({{< ref "Cronología" >}})"
 

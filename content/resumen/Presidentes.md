@@ -2,6 +2,7 @@
 title: "Presidentes"
 tags: []
 ---
+Presidentes de la [Generación del 80]({{< ref "Generación del 80" >}})
 *VER*: "[Cronología]({{< ref "Cronología" >}})"
 - [Julio Argentino Roca]({{< ref "Julio Argentino Roca" >}})   1880 - 1886
 

@@ -2,6 +2,8 @@
 title: "Generación del 80"
 tags: []
 ---
+- [Grupo dirigente](#)
+
 - Único partido(Régimen conservador)
 
 - Defendían la idea de la libertad en materia económica 

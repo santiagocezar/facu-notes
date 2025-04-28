@@ -2,6 +2,7 @@
 title: "Producción por región"
 tags: []
 ---
+[Modelo Agroexportador]({{< ref "Modelo Agroexportador" >}})
 ### Región Pampeana
 	Buenos Aires, Córdoba, La Pampa, Santa Fe, Entre Ríos
 ==Producían yerba, carne, tabaco y tanino ==
