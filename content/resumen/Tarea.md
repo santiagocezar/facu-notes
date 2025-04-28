@@ -9,12 +9,13 @@ tags: ["economia"]
 - [ ] Plantear (mejor) los requerimientos para DDS
 - [x] Estudiar para economía
 - [ ] Planificar para el Club
-- [ ] Diagnóstico de comprensión lectora
+- [ ] Corregir el diagnóstico de comprensión lectora
 - [x] Diagnóstico pedagógico
-- [ ] IEF
+- [x] IEF
 - [ ] Green Map
 - [x] Actividad de seguimiento PyE
-- [ ] Marco teórico de investigación
+- [ ] Citas marco teórico de investigación
+- [ ] Regimen de incompatibilidades
 
 ## Archivos sin etiquetar
 ```dataview

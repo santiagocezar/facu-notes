@@ -1,5 +1,0 @@
----
-title: "Sujetos"
-tags: []
----
-#economia

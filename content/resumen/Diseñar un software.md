@@ -15,12 +15,11 @@ tags: []
 ## Requisitos
 
 **Funcionales:**
-- Se debe poder registrar egresos o ingresos del usuario, de manera que sean identificables posteriormente
-- Se debe poder cargar una foto de la operación, para facilitar la identificación.
-- Se necesita cargar el lugar de la operación usando geolocalización.
-- Se debe registrar la fecha de la operación.
-- Se debe mostrar en un mapa el lugar de la operación.
-- Se debe ofrecer la posibilidad de definir la índole de las operaciones durante la carga o a posteriori.
+- El sistema permitirá registrar egresos o ingresos del usuario.
+- El sistema permitirá trabajar con precios en moneda extranjera.
+- Cada registro se debe poder identificar posteriormente, mediante una foto, geolocalización, fecha o notas
+- El sistema permitirá completar datos de la índole de la operación, datos sobre el comprador/vendedor, etiquetas para clasificar.
+- El sistema generar un mapa mostrando los lugares donde se realizaron gastos en un periodo de tiempo.
 - Se debe poder crear etiquetas para aplicar en operaciones.
 - Se debe poder recuperar los datos de las operaciones.
 - Se debe poder realizar la conversión de moneda extranjera.

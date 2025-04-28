@@ -141,7 +141,7 @@ async function tree(path) {
     return await readdir(path, { withFileTypes: true, recursive: true })
 }
 
-const out = resolve("./content/tercero")
+const out = resolve("./content/resumen")
 const files = await tree(resolve(import.meta.dirname, path))
 
 const existingLinks = getExistingLinks(files)
