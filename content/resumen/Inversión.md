@@ -1,8 +1,10 @@
 ---
 title: "Inversión"
-tags: ["economia"]
+tags: []
 ---
-Es el uso de [recursos](#) para adquirir [bienes de capital](#) o mejorar procesos para obtener **beneficios en el futuro**. 
+#economia 
+
+Es el uso de [recursos]({{< ref "Recurso" >}}) para adquirir [bienes de capital]({{< ref "Bien" >}}) o mejorar procesos para obtener **beneficios en el futuro**. 
 
 Pueden ser:
 - **Financieras:** cambio de un activo financiero por otro.

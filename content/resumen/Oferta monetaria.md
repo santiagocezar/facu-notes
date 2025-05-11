@@ -1,12 +1,14 @@
 ---
 title: "Oferta monetaria"
-tags: ["economia"]
+tags: []
 ---
+#economia 
+
 Es la **cantidad de [dinero]({{< ref "dinero" >}}) en circulación** de una economía, el valor del medios de pago generalmente aceptado para realizar transacciones. 
 
 ## Agregado monetario
 
-Cuantifican el dinero existente en una **economía**, el [BCRA](#) los clasifica según su [liquidez]({{< ref "liquidez" >}}):
+Cuantifican el dinero existente en una **economía**, el [BCRA]({{< ref "Banco central" >}}) los clasifica según su [liquidez]({{< ref "liquidez" >}}):
 
 - **M0:** Dinero **efectivo**
 - **M1:** M0 + [Cuenta corriente]({{< ref "Depósito#" >}})

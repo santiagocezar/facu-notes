@@ -1,7 +1,9 @@
 ---
 title: "Fallas del mercado"
-tags: ["economia"]
+tags: []
 ---
+#economia 
+
 Es cuando el [mercado]({{< ref "mercado" >}}) no asigna **eficientemente** los [Recurso]({{< ref "Recurso" >}}) por sí mismo.
 
 Puede ser por la **ausencia de competencia**:

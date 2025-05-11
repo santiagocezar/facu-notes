@@ -1,8 +1,10 @@
 ---
 title: "Factor productivo"
-tags: ["economia"]
+tags: []
 ---
-Son las **entradas** o [Recurso]({{< ref "Recurso" >}}) productivos usados por [empresas](#) o productores para [producir](#) [bienes y servicios](#) para consumo o para uso posterior en la producción, siendo éstos las **salidas**.
+#economia 
+
+Son las **entradas** o [Recurso]({{< ref "Recurso" >}}) productivos usados por una [empresa]({{< ref "empresa" >}}) o productor para [producir]({{< ref "Producción" >}}) [bienes y servicios]({{< ref "Producto" >}}) para consumo o para uso posterior en la producción, siendo éstos las **salidas**.
 
 Se clasifican en 
 - **Tierra o recursos naturales:** lo que aporta la naturaleza al proceso productivo (**alquilados** por las empresas)

@@ -1,7 +1,9 @@
 ---
 title: "Ley de un solo precio"
-tags: ["economia"]
+tags: []
 ---
+#economia 
+
 Cuando vendemos el mismo producto en diferentes lugares, debe comercializarse al mismo precio.
 
 | -         | Argentina | Paraguay |

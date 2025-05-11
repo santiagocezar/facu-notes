@@ -1,7 +1,9 @@
 ---
 title: "Banco central"
-tags: ["economia"]
+tags: []
 ---
+#economia 
+
 En Argentina, el presidente del banco central lo elige el presidente de la nación, por lo que, si el presidente le pide prestado dinero para el estado, el presidente del banco pone en riesgo su trabajo si se rechaza.
 
 Pasivo: **base monetaria**, respaldados por el activo

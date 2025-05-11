@@ -1,7 +1,8 @@
 ---
 title: "Materia - Probabilidad y Estadística"
-tags: ["probabilidad","intro"]
+tags: []
 ---
+#probabilidad-y-estadística #intro 
 ## Tarea
 ```dataview
 task where contains(tags, "#pye")

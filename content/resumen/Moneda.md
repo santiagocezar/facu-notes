@@ -1,8 +1,10 @@
 ---
 title: "Moneda"
-tags: ["economia"]
+tags: []
 ---
-Es el **signo representativo del valor de las cosas**, para facilitar las [transacciones](#) usando su [valor]({{< ref "valor" >}}) **extrínseco**. Su valor **intrínseco** que suele ser **mucho menor**, excepto para las **monedas metálicas de pesos argentinos**.
+#economia 
+
+Es el **signo representativo del valor de las cosas**, para facilitar las [transacciones]({{< ref "Transacción" >}}) usando su [valor]({{< ref "valor" >}}) **extrínseco**. Su valor **intrínseco** que suele ser **mucho menor**, excepto para las **monedas metálicas de pesos argentinos**.
 
 La cantidad moneda = cantindad bienes y servicios
 

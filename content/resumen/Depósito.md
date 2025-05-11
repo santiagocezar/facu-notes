@@ -1,9 +1,11 @@
 ---
 title: "Depósito"
-tags: ["economia"]
+tags: []
 ---
+#economia 
+
 **Activo** en el cual puede mantenerse la riqueza a lo largo del tiempo y puede utilizarse
-para financiar compras futuras. Los mantiene un [banco](#)
+para financiar compras futuras. Los mantiene un [banco]({{< ref "Banco" >}})
 
 ## Tipos
 

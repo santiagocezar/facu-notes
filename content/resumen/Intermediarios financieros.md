@@ -1,7 +1,9 @@
 ---
 title: "Intermediarios financieros"
-tags: ["economia"]
+tags: []
 ---
+#economia 
+
 Entre los [Ahorristas]({{< ref "Ahorristas" >}}) y demandantes, capta los fondos de los ahorristas y los conduce al demandante obteniendo una **ganancia** llamada **spread bancario** (vende más caro que lo de lo que compra)
 
 **Intermediarios financieros bancarios:**

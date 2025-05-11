@@ -1,7 +1,9 @@
 ---
 title: "Sectores productivos"
-tags: ["economia"]
+tags: []
 ---
+#economia 
+
 - **Primario:** obtención de materia prima (factor productivo tierra) (compone el 10% de la actividad en Argentina).
-- **Secundario:** transforma la materia prima en [productos](#) de consumo.
+- **Secundario:** transforma la materia prima en [productos]({{< ref "Producto" >}}) de consumo.
 - **Terciario:** ofrecen [Servicio]({{< ref "Servicio" >}}) a la sociedad.

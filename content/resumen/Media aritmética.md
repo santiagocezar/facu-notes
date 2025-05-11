@@ -1,7 +1,9 @@
 ---
 title: "Media aritmética"
-tags: ["probabilidad"]
+tags: []
 ---
+#probabilidad-y-estadística 
+
 $$
 \mu=\frac{\sum^N_{i=1}x_i}{N}
 $$

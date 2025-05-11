@@ -1,7 +1,8 @@
 ---
 title: "Materia - Economía"
-tags: ["economia","intro"]
+tags: []
 ---
+#economia #intro 
 ## Tarea
 ```dataview
 task where contains(tags, "#eco")

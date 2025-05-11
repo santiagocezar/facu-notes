@@ -1,7 +1,9 @@
 ---
 title: "Táctica"
-tags: ["dise","glosario"]
+tags: []
 ---
+#diseño-de-sistemas #glosario 
+
 Las acciones para cumplir con la [Estrategia]({{< ref "Estrategia" >}})
 
 > [!quote]

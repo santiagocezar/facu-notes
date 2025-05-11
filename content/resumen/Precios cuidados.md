@@ -2,4 +2,6 @@
 title: "Precios cuidados"
 tags: []
 ---
-El precio de un [producto](#) se determina por el **costo unitario + la utilidad/beneficio %**
+Los costos de los proveedores subían, pero los precios se mantenían.
+
+El precio de un [producto]({{< ref "Producto" >}}) se determina por el **costo unitario + la utilidad/beneficio %**

@@ -2,6 +2,8 @@
 title: "INV - TP4"
 tags: []
 ---
+### Análisis del nivel de dependencia a chatbots de inteligencia artificial y su impacto en el rendimiento de actividades académicas en estudiantes de ciclo superior en escuelas secundarias de San Francisco
+
 **Escuelas:** 2 divisiones de cada una.
 - Escuela ProA Técnica: Programación
 - Escuela Ravetti: Economía y Educación Física

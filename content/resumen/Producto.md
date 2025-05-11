@@ -1,5 +1,7 @@
 ---
 title: "Producto"
-tags: ["economia"]
+tags: []
 ---
-Pueden ser [bienes](#) o [servicios](#), las **salidas** del [proceso productivo](#).
+#economia 
+
+Pueden ser [bienes]({{< ref "Bien" >}}) o [servicios]({{< ref "Servicio" >}}), las **salidas** del [proceso productivo]({{< ref "Producción" >}}).

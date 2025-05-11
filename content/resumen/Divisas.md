@@ -1,5 +1,7 @@
 ---
 title: "Divisas"
-tags: ["economia"]
+tags: []
 ---
+#economia 
+
 Una moneda extranjera aceptada y respaldada por un valor legal, para hacer compras internacionales

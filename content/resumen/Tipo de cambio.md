@@ -1,7 +1,9 @@
 ---
 title: "Tipo de cambio"
-tags: ["economia"]
+tags: []
 ---
+#economia 
+
 Cuantos pesos para un dolar
 
 - **Nominal:** valor de referencia para los otros, depende del banco central

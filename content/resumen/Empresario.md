@@ -2,8 +2,11 @@
 title: "Empresario"
 tags: []
 ---
-Tipos
-- **Tradicional:** La misma persona aporta el [Capital]({{< ref "Capital" >}}) y dirige la empresa. Tiene el problema de que no tiene una vista externa de la empresa, no toma bien las decisiones.
-- Moderno:
-	- Hay un **inversionista** que aporta el capital, demanda que el negocio genere una **ganancia**
-	- Y además un **directivo** que dirige la empresa, con
+Es el dueño de una [empresa]({{< ref "empresa" >}}), se encarga de:
+- Establecer los **objetivos de la empresa**
+- **Negociar** con los **[factores productivos]({{< ref "Factor productivo" >}})**
+- Coordinar las **relaciones con el entorno**
+
+Un **empresario tradicional** es una sola persona que **aporta el capital** y **dirige la empresa**. Al **no tener una vista externa** de la empresa, puede tomar decisiones incorrectas.
+
+Los **empresarios modernos** son dos personas, una es el **inversionista** que **aporta el capital** y demanda que el negocio **genere una ganancia**, en conjunto con un **directivo** que dirige la empresa, satisfaciendo las necesidades de los clientes y el inversionista

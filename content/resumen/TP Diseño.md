@@ -1,7 +1,9 @@
 ---
 title: "TP Diseño"
-tags: ["dise"]
+tags: []
 ---
+#diseño-de-sistemas  
+
 Para todo el año
 
 1. Hacer lo del SAU

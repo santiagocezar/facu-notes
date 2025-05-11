@@ -1,5 +1,7 @@
 ---
 title: "Depreciaciones"
-tags: ["economia"]
+tags: []
 ---
-Registro de la pérdida de [valor]({{< ref "valor" >}}) de un [bien de uso](#), por obsolencia, desgaste, etc.
+#economia 
+
+Registro de la pérdida de [valor]({{< ref "valor" >}}) de un [bien de uso]({{< ref "Bien" >}}), por obsolencia, desgaste, etc.

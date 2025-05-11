@@ -1,7 +1,9 @@
 ---
 title: "Intercambio"
-tags: ["economia"]
+tags: []
 ---
+#economia
+
 El consumo de un individuo aislado se restringe a lo que tenga a su alcance o lo que pueda transformar por sus propios medios.
 
 Cada sujeto posee **capacidades** y **recursos distintos**, por lo que tienden a ponerse en **contacto con otros** para **cambiar lo que tienen** en abundancia **por lo que no tienen**, consiguiendo un **beneficio mutuo** por el intercambio.

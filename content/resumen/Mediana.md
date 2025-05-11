@@ -1,7 +1,9 @@
 ---
 title: "Mediana"
-tags: ["probabilidad"]
+tags: []
 ---
+#probabilidad-y-estadística
+
 El **valor central** de la distribución **ordenada**, divide al conjunto ordenado en dos subconjuntos que contienen la misma cantidad de observaciones.
 
 Para una **serie simple**, $Me$ se calcula:

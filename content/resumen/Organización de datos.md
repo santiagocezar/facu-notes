@@ -1,7 +1,8 @@
 ---
 title: "Organización de datos"
-tags: ["probabilidad"]
+tags: []
 ---
+#probabilidad-y-estadística 
 Para resumir los [datos]({{< ref "datos" >}}) podemos utilizar:
 
 - Gráficos:

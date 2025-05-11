@@ -2,7 +2,8 @@
 title: "Náufrago"
 tags: []
 ---
-- Cocos
+- Comida
+	- Cocos
 - Bebida
 	- Rocío de agua
 - Herramientas

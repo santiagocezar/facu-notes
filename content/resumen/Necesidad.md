@@ -1,7 +1,9 @@
 ---
 title: "Necesidad"
-tags: ["economia"]
+tags: []
 ---
+#economia 
+
 Es el deseo de un individuo de conseguir algo que no tiene. Son:
 
 - **Ilimitadas en número**,

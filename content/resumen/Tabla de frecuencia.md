@@ -1,7 +1,9 @@
 ---
 title: "Tabla de frecuencia"
-tags: ["probabilidad"]
+tags: []
 ---
+#probabilidad-y-estadística 
+
 Útil para datos de [variables cualitativas]({{< ref "variables cualitativas" >}})
 
 | $X_i:$ conducta observada | conteo                                 | $f_i:$ frec. absoluta | $h_i:$ frec. relativa |

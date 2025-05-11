@@ -1,7 +1,9 @@
 ---
 title: "Tributos"
-tags: ["economia"]
+tags: []
 ---
+#economia 
+
 Algo que se paga al estado.
 
 - [Impuestos]({{< ref "Impuestos" >}}): son obligatorios, no tienen contrapartida (un destino específico para el gasto).

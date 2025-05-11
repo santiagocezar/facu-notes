@@ -1,7 +1,9 @@
 ---
 title: "Dispersión"
-tags: ["probabilidad"]
+tags: []
 ---
+#probabilidad-y-estadística 
+
 Funciones de los datos que miden según diferentes criterios la **dispersión de los datos** con **respecto a la medida de [posición]({{< ref "posición" >}}) central**.
 
 Hay medidas de dispersión que estudian concentración de los datos en torno a un punto y otras estudian recorridos.

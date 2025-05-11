@@ -1,7 +1,9 @@
 ---
 title: "Mercado de divisas"
-tags: ["economia"]
+tags: []
 ---
+#economia
+
 Un [mercado]({{< ref "mercado" >}}) donde se intercambian [divisas]({{< ref "divisas" >}}). Su valor en el mercado está definido por el [tipo de cambio]({{< ref "tipo de cambio" >}})
 
 Los **oferentes** serían:

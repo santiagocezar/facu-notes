@@ -1,7 +1,9 @@
 ---
 title: "Externalidades"
-tags: ["economia"]
+tags: []
 ---
+#economia
+
 La [actividad económica]({{< ref "actividad económica" >}}) de un agente **puede tener impacto sobre otro**, **sin que se refleje en el precio** de su producto.
 
 - Positivo, para el resto de la población

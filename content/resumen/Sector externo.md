@@ -1,5 +1,7 @@
 ---
 title: "Sector externo"
-tags: ["economia"]
+tags: []
 ---
-Formado por los [residentes](#) de **otros países**, produce una **mayor competencia**.
+#economia
+
+Formado por los [residentes]({{< ref "Residente" >}}) de **otros países**, produce una **mayor competencia**.

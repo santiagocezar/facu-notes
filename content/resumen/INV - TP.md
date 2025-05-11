@@ -1,7 +1,9 @@
 ---
 title: "INV - TP"
-tags: ["investigaci","tp"]
+tags: []
 ---
+#investigación-tecnológica #tp
+
 ## TP1
 1. Armar el grupo
 2. Buscar dos temas, describir brevemente.

@@ -1,5 +1,7 @@
 ---
 title: "Sector monetario"
-tags: ["economia"]
+tags: []
 ---
+#economia 
+
 Grandes agregados Macroeconomicos: Oferta y Demanda Monetaria, reservas del BCRA.

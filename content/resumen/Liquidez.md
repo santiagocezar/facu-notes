@@ -1,5 +1,7 @@
 ---
 title: "Liquidez"
-tags: ["economia"]
+tags: []
 ---
-La posibilidad de transforman [bienes](#) y [servicios](#) en [Dinero]({{< ref "Dinero" >}}) líquido.
+#economia 
+
+La posibilidad de transforman [bienes]({{< ref "Bien" >}}) y [servicios]({{< ref "Servicio" >}}) en [Dinero]({{< ref "Dinero" >}}) líquido.

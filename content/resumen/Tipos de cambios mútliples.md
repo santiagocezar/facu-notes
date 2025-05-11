@@ -1,5 +1,7 @@
 ---
 title: "Tipos de cambios mútliples"
-tags: ["economia"]
+tags: []
 ---
-Dos o más [tipos de cambio](#) oficial, depende del tipo de transacción.
+#economia 
+
+Dos o más [tipos de cambio]({{< ref "Tipo de cambio" >}}) oficial, depende del tipo de transacción.

@@ -1,8 +1,9 @@
 ---
 title: "Variables cuantitativas"
-tags: ["probabilidad"]
+tags: []
 ---
+#probabilidad-y-estadística 
 Características que **sí** se pueden expresar de forma numérica.
 
 - **Discretas:** puede tomar un **número finito de valores** en un intervalo, pueden **contarse**.
-- **Continua:** puede tomar un **número infinito de valores** en un intervalo, se pueden **medir** empleando una [escala](#) apropiada.
+- **Continua:** puede tomar un **número infinito de valores** en un intervalo, se pueden **medir** empleando una [escala]({{< ref "Escalas" >}}) apropiada.

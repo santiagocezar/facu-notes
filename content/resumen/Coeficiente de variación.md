@@ -1,7 +1,9 @@
 ---
 title: "Coeficiente de variación"
-tags: ["probabilidad"]
+tags: []
 ---
+#probabilidad-y-estadística 
+
 $$Cv=\frac\sigma\mu\cdot 100\% $$
 $$cv=\frac S{\overline{x}}\cdot 100\% $$
 Es una medida de dispersión relativa adimensional.  

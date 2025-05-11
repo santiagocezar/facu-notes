@@ -1,7 +1,9 @@
 ---
 title: "Actividad 2 Eco"
-tags: ["economia"]
+tags: []
 ---
+#economia 
+
 | País           | GINI  | PBI   |
 | -------------- | ----- | ----- |
 | Australia      | 34,3% | 64000 |

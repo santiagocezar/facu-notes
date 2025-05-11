@@ -1,7 +1,9 @@
 ---
 title: "Proyectos vs. Productos"
-tags: ["dise"]
+tags: []
 ---
+#diseño-de-sistemas 
+
 Ponemos un objetivo final, nos sirve de guía, nos permite definir el tiempo y un tope de presupuesto
 
 La gente que participa en un proyecto generalmente es fija,

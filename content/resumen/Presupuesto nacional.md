@@ -1,7 +1,9 @@
 ---
 title: "Presupuesto nacional"
-tags: ["economia"]
+tags: []
 ---
+#economia 
+
 Estimación financiera anual que muestra el movimiento de los egresos e ingresos que un gobierno necesita para cumplir con sus programas.
 
 - Recursos genuinos: tributarios y ventas.

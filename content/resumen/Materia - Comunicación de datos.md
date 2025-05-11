@@ -1,7 +1,8 @@
 ---
 title: "Materia - Comunicación de datos"
-tags: ["intro","comunicaci"]
+tags: []
 ---
+#intro #comunicación-de-datos
 **Trabajo de la materia (después de abril):** desarrollar, en grupos de  una solución (barata) a un problema cotidiano, trabajando
 - **La interfaz:** puede ser web, móvil, escritorio...
 - **El hardware:** con una Arduino, ESP32...

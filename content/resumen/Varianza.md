@@ -1,7 +1,9 @@
 ---
 title: "Varianza"
-tags: ["probabilidad"]
+tags: []
 ---
+#probabilidad-y-estadística 
+
 $$
 \sigma^2=\frac{\sum_{i=1}^N(x_i-\mu)^2}{N}=\mu_{x²}-(\mu_x)²
 $$

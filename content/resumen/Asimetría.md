@@ -1,7 +1,9 @@
 ---
 title: "Asimetría"
-tags: ["probabilidad"]
+tags: []
 ---
+#probabilidad-y-estadística 
+
 Una distribución de datos puede ser
 - **Asimétrica negativa:** Media < Mediana < Modo
 - **Simétrica:** Media = Mediana = Modo

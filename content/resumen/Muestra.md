@@ -1,5 +1,6 @@
 ---
 title: "Muestra"
-tags: ["probabilidad"]
+tags: []
 ---
-Cuando no es posible estudiar toda la [población](#) se estudia solo una porción, de tamaño $n$.
+#probabilidad-y-estadística 
+Cuando no es posible estudiar toda la [población]({{< ref "Población (estadística)" >}}) se estudia solo una porción, de tamaño $n$.

@@ -1,8 +1,9 @@
 ---
 title: "Problemón 13-03"
-tags: ["dise"]
+tags: []
 ---
-Menos tiempo, más plata. Que prácticas vamos a usar, que [estrategias](#) vamos a seguir.
+#diseño-de-sistemas 
+Menos tiempo, más plata. Que prácticas vamos a usar, que [estrategias]({{< ref "Estrategia" >}}) vamos a seguir.
 
 - Una bolsa de trabajo pública que se encuentre al día con los puestos disponibles
 - Recomendar a postulantes interesados puestos que sean acorde a la carrera y el nivel en el que se encuentre estudiando.

@@ -1,7 +1,9 @@
 ---
 title: "Triangulo de hierro"
-tags: ["dise"]
+tags: []
 ---
+#diseño-de-sistemas 
+
 Para hacer algo necesito tres variables
 - Alcance: la cantidad que voy a hacer
 - Recursos: cuanto tengo para hacer

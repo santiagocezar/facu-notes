@@ -1,7 +1,8 @@
 ---
 title: "Estadística"
-tags: ["probabilidad"]
+tags: []
 ---
+#probabilidad-y-estadística 
 Rama de la ciencia que realiza la **toma**, **organización**, **presentación** y **análisis** de [Datos]({{< ref "Datos" >}})
 
 - **Estadística descriptiva:** simplemente describe el conjunto de estudio en su totalidad.

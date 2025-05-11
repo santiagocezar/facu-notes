@@ -1,7 +1,9 @@
 ---
 title: "Medidas resumen"
-tags: ["probabilidad"]
+tags: []
 ---
+#probabilidad-y-estadística 
+
 - [Posición]({{< ref "Posición" >}})
 - [Dispersión]({{< ref "Dispersión" >}})
 - Deformación:

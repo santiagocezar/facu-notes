@@ -1,7 +1,9 @@
 ---
 title: "Sujeto"
-tags: ["economia"]
+tags: []
 ---
+#economia 
+
 Una entidad que participa en la [actividad económica]({{< ref "actividad económica" >}}). Pueden ser
 
 - Familias

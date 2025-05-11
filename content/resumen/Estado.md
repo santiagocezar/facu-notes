@@ -1,14 +1,16 @@
 ---
 title: "Estado"
-tags: ["economia"]
+tags: []
 ---
+#economia 
+
 Forma de **organización política** de una sociedad dentro de un **territorio**. 
 
-**Regulan** la [actividad económica]({{< ref "actividad económica" >}}) de la perspectiva **macroeconómica** y **microeconómica**, corrigiendo o mejorando la forma en que actúan los [mercados](#) mediante la legislación o la regulación.
+**Regulan** la [actividad económica]({{< ref "actividad económica" >}}) de la perspectiva **macroeconómica** y **microeconómica**, corrigiendo o mejorando la forma en que actúan los [mercados]({{< ref "Mercado" >}}) mediante la legislación o la regulación.
 
 Los motivos para intervenir son:
 - [Redistribución del ingreso y equidad]({{< ref "Redistribución del ingreso y equidad" >}}).
-- [Razones macroeconómicas](#).
+- [Razones macroeconómicas]({{< ref "Políticas macroeconómicas" >}}).
 - La existencia de [fallas del mercado]({{< ref "fallas del mercado" >}}).
 
 Gestiona la política económica internacional

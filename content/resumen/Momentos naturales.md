@@ -1,7 +1,9 @@
 ---
 title: "Momentos naturales"
-tags: ["probabilidad"]
+tags: []
 ---
+#probabilidad-y-estadística 
+
 $$A_r=\frac{\sum^N_{i=1}{x_i}^r}{N}$$
 Media aritmética de la potencia $r$ de la variable.
 
